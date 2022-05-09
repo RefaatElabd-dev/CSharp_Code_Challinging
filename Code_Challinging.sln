@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvncedSwitch", "AdvncedSwitch\AdvncedSwitch.csproj", "{0DFBF56C-183F-417C-BD7B-93269D306C21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedSwitch", "AdvncedSwitch\AdvancedSwitch.csproj", "{0DFBF56C-183F-417C-BD7B-93269D306C21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullOperators", "NullOperators\NullOperators.csproj", "{6E0B451E-DE04-4D6F-97F2-0E87F028E7FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0DFBF56C-183F-417C-BD7B-93269D306C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DFBF56C-183F-417C-BD7B-93269D306C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DFBF56C-183F-417C-BD7B-93269D306C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0B451E-DE04-4D6F-97F2-0E87F028E7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0B451E-DE04-4D6F-97F2-0E87F028E7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0B451E-DE04-4D6F-97F2-0E87F028E7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0B451E-DE04-4D6F-97F2-0E87F028E7FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
