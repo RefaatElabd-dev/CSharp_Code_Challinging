@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library2", "Library2\Librar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainApp", "MainApp\MainApp.csproj", "{8A670262-B6B1-4180-9DA7-CCCDCEF384A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedEnums", "AdvancedEnums\AdvancedEnums.csproj", "{1F4E476D-4B59-4B8C-90F2-4CE5C7C8033C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedEnums", "AdvancedEnums\AdvancedEnums.csproj", "{1F4E476D-4B59-4B8C-90F2-4CE5C7C8033C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{31E03356-06C3-42B3-8853-AA4726DC8400}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +61,10 @@ Global
 		{1F4E476D-4B59-4B8C-90F2-4CE5C7C8033C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F4E476D-4B59-4B8C-90F2-4CE5C7C8033C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F4E476D-4B59-4B8C-90F2-4CE5C7C8033C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E03356-06C3-42B3-8853-AA4726DC8400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E03356-06C3-42B3-8853-AA4726DC8400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E03356-06C3-42B3-8853-AA4726DC8400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E03356-06C3-42B3-8853-AA4726DC8400}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
